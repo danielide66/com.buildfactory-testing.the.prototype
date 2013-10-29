@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.buildfactory</groupId>
   <artifactId>testing.the.prototype</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <description>This pom file is generated automatically and you are not supposed to modify it unless you know what you're doing.</description>
   <scm>
     <connection>scm:git:https://github.com/danielide66/com.buildfactory-testing.the.prototype.git</connection>
     <developerConnection>scm:git:https://github.com/danielide66/com.buildfactory-testing.the.prototype.git</developerConnection>
-    <tag>testing.the.prototype-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <repository>
