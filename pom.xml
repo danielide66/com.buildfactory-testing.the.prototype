@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.buildfactory</groupId>
   <artifactId>testing.the.prototype</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <description>This pom file is generated automatically and you are not supposed to modify it unless you know what you're doing.</description>
   <scm>
     <connection>scm:git:https://github.com/danielide66/com.buildfactory-testing.the.prototype.git</connection>
     <developerConnection>scm:git:https://github.com/danielide66/com.buildfactory-testing.the.prototype.git</developerConnection>
+    <tag>testing.the.prototype-1.0.0</tag>
   </scm>
   <distributionManagement>
     <repository>
